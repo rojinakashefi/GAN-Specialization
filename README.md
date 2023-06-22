@@ -1,3 +1,7 @@
+## Programming assignments and quizzes from all courses in the Coursera [Generative adversarial specialization](https://www.coursera.org/specializations/generative-adversarial-networks-gans) offered by `deeplearning.ai`.
+
+-----
+
 ## Course 1
 
 1. Generative model vs Discrimentative model
@@ -61,3 +65,7 @@
 2. Paried image to image translation using Pix2Pix which transfer style of one image to another image.
 
 3. PatchGAN and U-Net architecture and pixel distance loss term.
+
+4. CycleGAN and Cycle consistency
+
+5. Least square and identity loss (input and output are same) which helps to preserve the color.
